@@ -65,7 +65,7 @@
         },
         "REPO_USERNAME": {
             "description": "Enter Repository name Midukki-RoBoT",
-            "value": "Midukki-RoBoT",
+            "value": "Nischay-RoBoT",
             "required": false
         },
         "API_WEB_URL": {
