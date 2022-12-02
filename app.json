@@ -1,17 +1,17 @@
 {
-    "name": "Midukki-RoBoT",
-    "description": "Midukki-RoBoT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
+    "name": "Nischay-RoBoT",
+    "description": "Niachay-RoBoT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
     "keywords": [
       "telegram",
       "group",
       "management",
       "bot",
       "by",
-      "mo",
-      "tech"
+      "Nischay",
+      "Bot"
     ],
-    "website": "https//telegram.dog/Midukki_RoBoT",
-    "repository": "https://github.com/PR0FESS0R-99/Midukki-RoBoT",
+    "website": "https//telegram.dog/Legendbotupdates",
+    "repository": "https://github.com/NischayYadav615/Nischay-robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -130,7 +130,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Your Support chat url or Your Link [with https:// or https://t.me/] Don't use @",
-            "value": "https://t.me/Mo_Tech_YT",
+            "value": "https://t.me/Legendbotupdates",
             "required": false
         }
     },
